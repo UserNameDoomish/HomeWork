@@ -1,0 +1,9 @@
+
+   0 mkdir -p /home/animals/dogs1/cats1/fish1 && touch /home/animals/dogs1/Pluto1.txt /home/animals/dogs1/cats1/Garfield1.txt /home/animals/dogs1/cats1/fish1/Nemo1.txt
+   1 touch /tmp/adam.txt
+   2 cp -r adam.txt /home/humans
+   3 /tmp
+   4 touch evA.txt
+   5 mv evA.txt /opt/eve.txt
+   6 mv eve.txt /home/humans
+   7 tree /home/humans/tmp
