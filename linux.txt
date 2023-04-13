@@ -1,0 +1,9 @@
+1 /home
+2 touch myfirstbashscript.sh
+3 chmod +x myfirstbashscript.sh
+4 #!/bin/bash
+5 USER="YOUR_NAME_HERE"
+6 echo "Current date is $(date)"
+7 echo "Hello, $USER!"
+8 echo "Working directory is $(pwd)"
+9 echo "Number of running processes is $(ps aux | wc -l)"
